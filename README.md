@@ -18,22 +18,22 @@
 ## 3. 씬별 구성 (Scene Breakdown)씬 번호씬 길이목표 메시지주요 화면 구성 및 프롬프트 요약
 ### Scene 1 HOW 소개 
 결과 : 초롱초롱한 눈의 요정 캐릭터가 카메라를 향해 손을 흔드는 바스트 샷(2초)
-파일명 scene1.png
+#### 파일명 scene1.png
 <img width="345" height="192" alt="1" src="https://github.com/user-attachments/assets/15129c66-c88b-466c-b001-473e9722d4bd" />
 
 ### Scene 2 맞춤형 경로 및 체크포인트 제안 
 결과 : 디지털 로드맵 스크린(갈래길과 체크포인트)을 가리키는 요정의 모습(2초)
-파일명 scene2.png
+#### 파일명 scene2.png
 <img width="346" height="192" alt="2" src="https://github.com/user-attachments/assets/aeea742b-4c28-410c-ac99-15ed92c81510" />
 
 ### Scene 3 학습 성취감 및 동기부여
 결과 : 박수치는 요정과 'LV UP' 태블릿을 든 학습자의 따뜻한 골드빛 컷(2초)
-파일명 scene3.png
+#### 파일명 scene3.png
 <img width="349" height="194" alt="image" src="https://github.com/user-attachments/assets/c267a4de-3f11-4c01-b344-f5b4f2687842" />
 
 ### Scene 4 브랜드 슬로건 CTA 각인
 결과 : 소프트한 스카이 블루 배경의 미니멀 타이포그래피 카드 샷(2초)
-파일명 scene4.png
+#### 파일명 scene4.png
 <img width="1024" height="569" alt="4" src="https://github.com/user-attachments/assets/157f6368-44b2-4077-a3e0-613d277e4a87" />
 
 
