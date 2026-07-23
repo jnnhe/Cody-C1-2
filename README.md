@@ -13,26 +13,29 @@
 ### 편집 도구: 미리캔버스 (Miricanvas)역할: 최종 컷 정돈, 자막 레이어 및 브랜드 배너 후가공
 
 ## 3. 씬별 구성 (Scene Breakdown)씬 번호씬 길이목표 메시지주요 화면 구성 및 프롬프트 요약
-결과: 10초 브랜드 첫인상 각인, 초롱초롱한 눈의 요정 캐릭터가 카메라를 향해 손을 흔드는 바스트 샷
+### Scene 1 HOW 소개 
+결과 : 초롱초롱한 눈의 요정 캐릭터가 카메라를 향해 손을 흔드는 바스트 샷(2초)
 파일명 scene1.png
 <img width="345" height="192" alt="1" src="https://github.com/user-attachments/assets/15129c66-c88b-466c-b001-473e9722d4bd" />
 
-
-## Scene 2 8초맞춤형 경로 및 체크포인트 제안 
-디지털 로드맵 스크린(갈래길과 체크포인트)을 가리키는 요정의 모습
+### Scene 2 맞춤형 경로 및 체크포인트 제안 
+결과 : 디지털 로드맵 스크린(갈래길과 체크포인트)을 가리키는 요정의 모습(2초)
 파일명 scene2.png
+<img width="346" height="192" alt="2" src="https://github.com/user-attachments/assets/aeea742b-4c28-410c-ac99-15ed92c81510" />
 
-## Scene 3 학습 성취감 및 동기부여
-박수치는 요정과 'LV UP' 태블릿을 든 학습자의 따뜻한 골드빛 컷
+### Scene 3 학습 성취감 및 동기부여
+결과 : 박수치는 요정과 'LV UP' 태블릿을 든 학습자의 따뜻한 골드빛 컷(2초)
 파일명 scene3.png
+<img width="349" height="194" alt="image" src="https://github.com/user-attachments/assets/c267a4de-3f11-4c01-b344-f5b4f2687842" />
 
-## Scene 4
-2초 브랜드 슬로건 CTA 각인
-소프트한 스카이 블루 배경의 미니멀 타이포그래피 카드 샷
+### Scene 4 브랜드 슬로건 CTA 각인
+결과 : 소프트한 스카이 블루 배경의 미니멀 타이포그래피 카드 샷(2초)
 파일명 scene4.png
+<img width="1024" height="569" alt="4" src="https://github.com/user-attachments/assets/386bbf8e-c0c3-48bb-8826-b16f2da31324" />
 
-4. 프롬프트 수정 및 최적화 과정 (Prompt Iteration)수정 배경: 초기 기획 단계에서는 캐릭터가 다소 차갑고 기계적인 로봇 형태로 도출되어 브랜드가 지향하는 따뜻하고 친근한 학습 동반자의 이미지를 주기에 부족했습니다.
+## 4. 프롬프트 수정 및 최적화 과정 (Prompt Iteration)수정 배경
+: 초기 기획 단계에서는 캐릭터가 다소 차갑고 기계적인 로봇 형태로 도출되어 브랜드가 지향하는 따뜻하고 친근한 학습 동반자의 이미지를 주기에 부족했습니다.
 이에 따라 기존 캐릭터 자산을 반영하여 초롱초롱하고 귀여운 요정 인형 컨셉으로 전면 수정하였고, 숏폼의 몰입감을 극대화하기 위해 전체 타임라인을 8초(각 씬당 2초 균등 배분)로 압축 조정했습니다.
-Before ➔ After 비교 :
+### Before ➔ After 비교 :
 Before: "A rigid blue robot character with a question-mark head, 10-second sequence..." (딱딱한 로봇 형태 및 긴 호흡)
 After: "Cute and friendly doll-like fairy character with big sparkling eyes and a question-mark shaped hair topping, 8-second total sequence (2 seconds per scene)..." (친근한 요정 인형 캐릭터 및 속도감 있는 8초 타임라인 완성)
