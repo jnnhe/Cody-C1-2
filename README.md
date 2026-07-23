@@ -34,7 +34,7 @@
 ### Scene 4 브랜드 슬로건 CTA 각인
 결과 : 소프트한 스카이 블루 배경의 미니멀 타이포그래피 카드 샷(2초)
 #### 파일명 scene4.png
-<img width="1024" height="569" alt="4" src="https://github.com/user-attachments/assets/157f6368-44b2-4077-a3e0-613d277e4a87" />
+<img width="342" height="191" alt="image" src="https://github.com/user-attachments/assets/b3f8e5ae-7ddb-4d8d-a20c-b9c8e602e8a9" />
 
 
 ## 4. 프롬프트 수정 및 최적화 과정 (Prompt Iteration)수정 배경
